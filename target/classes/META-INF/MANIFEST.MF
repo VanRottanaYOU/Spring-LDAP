@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring LDAP - spring-boot-ldap
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: vryou
+Implementation-Vendor-Id: com.memorynotfound.ldap.configuration
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://memorynotfound.com
+Created-By: Maven Integration for Eclipse
+
